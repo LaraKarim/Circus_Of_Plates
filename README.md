@@ -1,3 +1,3 @@
-# circuisOfPlates
+# CircusOfPlates
 
-This a java Game implemented using design patterns and OOP concepts 
+This a Java Game implemented using design patterns and OOP concepts 
